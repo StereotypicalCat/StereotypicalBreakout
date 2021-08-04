@@ -1,7 +1,6 @@
 import hashlib
 import operator
 import os
-import mysql.connector
 
 
 class Highscore:
