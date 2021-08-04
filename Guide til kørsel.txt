@@ -1,0 +1,17 @@
+For at spille spillet, skal du bruge programmet Python, version 3.6, som kan hentes her:
+https://www.python.org/
+Du skal desuden åbne en terminal, og køre følgende kommando:
+• python -m pip install --upgrade pip
+Hvis denne ikke virker, skal du køre:
+• python3.6 -m pip install --upgrade pip
+Dernæst mangler du kun at køre:
+• python -m pip install --upgrade pygame
+eller
+• python3.6 -m pip install --upgrade pygame
+Hernæst vil du kunne køre spillet, ved at doubleklikke på Breakout.py, og se koden fra en hvilken som helst fil ved at højreklikke på filen, vælge ”Edit with IDLE” og dernæst ”Edit with IDLE 3.6”.
+
+Du kan desuden ændre og lave Baner, ved at:
+• Gå ind i mappen Assets -> Levels
+• Åbne et level med et tekst program
+• Følge guiden inde i bane 1
+For at lave flere baner, skal du bare lave et tekstdokument der følger forskriften fra den første, og gemme det i format: level<IndsætBaneNummerHer>.dat
